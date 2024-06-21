@@ -39,7 +39,7 @@ h1{
     color: blue;
     background-color:rgba(226, 231, 235, 0.823) ;
 }
-#reset{
+#reset-btn{
     padding: 1rem;
     border-radius: 1rem;
     border: none;
